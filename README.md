@@ -18,3 +18,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+ <div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindexTOS&theme=merko&hide_border=true" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+---
+![](https://visitcount.itsvg.in/api?id=vindexTOS&icon=0&color=3)
