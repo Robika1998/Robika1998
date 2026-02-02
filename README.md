@@ -1,29 +1,107 @@
-# Hello
-## My Name Is Robi
-### I am a Front-End Developer
+# Robi Beglarashvili - Skills & Technologies
 
-### Languages and Tools:
-
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="HTML5" width="26px" src="./src/img/html.svg" />
-  <img alt="CSS3" width="26px" src="./src/img/css.svg" />
-  <img alt="Sass" width="26px" src="./src/img/sass.svg" />
-  <img alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
-  <img alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
-  <img alt="React" width="26px" src="./src/img/react.svg" />
-  <img alt="Angular" width="26px" src="./src/img/angular.svg" />
-  <img alt="Node.js" width="26px" src="./src/img/nodejs.svg" />
-  <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robika1998&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robika1998&theme=merko&hide_border=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robika1998&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+## 👨‍💻 About Me
+**Robi Beglarashvili** - Mobile and Front-End Software Engineer specializing in modern web and mobile applications with expertise in microservices architecture, real-time systems, and IoT solutions.
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Robika1998&icon=0&color=3)
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+- **React** - Advanced proficiency with React 18+, hooks, context API, and modern patterns
+- **Next.js** - Server-side rendering, API routes, and full-stack React applications
+- **TypeScript** - Strong typing, interfaces, generics, and type-safe development
+- **Angular** - Angular 13+ with RxJS, services, and component architecture
+- **React Native / Expo** - Cross-platform mobile development (iOS & Android)
+- **State Management** - Redux Toolkit, Zustand, React Query (TanStack Query)
+- **UI Frameworks** - Ant Design, Tailwind CSS, Radix UI, Bootstrap
+- **Routing** - React Router, Next.js Router, Expo Router, React Navigation
+- **Real-time Communication** - Socket.io-client, WebSocket integration
+
+ 
+### **Mobile Development**
+- **React Native** - Native mobile app development
+- **Expo** - Development workflow, OTA updates, native modules
+- **Expo Router** - File-based routing for mobile apps
+- **Native Modules** - Camera, Location, Notifications, Secure Storage
+- **Maps Integration** - React Native Maps, Google Maps API
+
+### **DevOps & Deployment**
+ - **Version Control** - Git, GitHub workflows
+ - **Expo Dev** - Play Store , App Store, Google Cloud, Firebase
+
+### **Specialized Technologies**
+- **OCPP (Open Charge Point Protocol)** - EV charging station management systems
+- **IoT Integration** - Device communication, real-time monitoring
+- **Payment Processing** - Stripe integration
+- **File Processing** - Multer, Formidable, PDF parsing, Excel handling
+- **Real-time Systems** - WebSocket servers 
+
+### **Development Tools**
+- **Build Tools** - Vite, Webpack, Metro Bundler
+- **Package Managers** - Yarn, npm
+- **Code Quality** - ESLint, TypeScript compiler
+- **Testing** - Jest, React Testing Library
+
+### **Additional Skills**
+- **Performance Optimization** - Code splitting, lazy loading, memoization
+- **Internationalization** - Multi-language support
+- **Responsive Design** - Mobile-first approach, cross-browser compatibility
+
+---
+
+## 📱 Project Experience
+
+### **Admin Panels & Dashboards**
+- Built multiple admin interfaces with React, Ant Design, and TypeScript
+- Real-time data visualization with charts and graphs
+- Complex data tables with filtering, sorting, and pagination
+- User management and role-based access control
+
+### **Mobile Applications**
+- Cross-platform mobile apps with React Native and Expo
+- Location-based services and maps integration
+- Push notifications and background tasks
+- Secure authentication and data storage
+
+ 
+
+### **IoT & Hardware Integration**
+- OCPP protocol implementation for EV charging stations
+- Real-time device monitoring and control
+- WebSocket communication with embedded systems
+- Device management and remote commands
+
+### **E-commerce & Logistics**
+- Order management systems
+- Payment gateway integration
+- Real-time tracking and notifications
+- Multi-tenant applications
+
+---
+
+## 🎯 Key Strengths
+- **Full-Stack Development** - End-to-end application development
+- **Architecture Design** - Scalable and maintainable system design
+- **Problem Solving** - Complex technical challenges
+- **Real-time Systems** - WebSocket, Socket.io, event-driven architecture
+- **Modern JavaScript/TypeScript** - ES6+
+- **Code Quality** - Clean code principles, type safety, testing
+
+---
+
+## 📚 Currently Working With
+- React  & Next.js
+- TypeScript 
+- React Native & Expo
+- Docker & containerization
+
+
+---
+
+## 📚 Contact
+- Email: beglarashvilirobi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/robi-beglarashvili-26989a304/
+- Location: Tbilisi, Georgia
+
+---
