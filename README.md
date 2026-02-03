@@ -1,6 +1,6 @@
 # Robi Beglarashvili - Skills & Technologies
 
-## 👨‍💻 About Me
+## About Me
 **Robi Beglarashvili** - Mobile and Front-End Software Engineer specializing in modern web and mobile applications with expertise in microservices architecture, real-time systems, and IoT solutions.
 
 ---
